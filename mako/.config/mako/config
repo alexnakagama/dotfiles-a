@@ -1,0 +1,63 @@
+# Omarchy defaults
+include=~/.local/share/omarchy/default/mako/core.ini
+
+
+# Mako theme - Black / Blue / Cyan
+
+background-color=#0b1f33ee
+text-color=#dbeafe
+
+font=JetBrainsMono Nerd Font 11
+
+
+# Size
+
+width=360
+height=100
+
+padding=14
+
+border-size=1
+border-radius=16
+
+
+# Position
+
+anchor=top-right
+margin=20
+
+
+# Timeout
+
+default-timeout=5000
+
+
+# Format
+
+format=<b>%s</b>\n%b
+
+
+# Icons
+
+icons=1
+max-icon-size=32
+
+
+# Urgency
+
+[urgency=low]
+background-color=#07111fee
+text-color=#94a3b8
+border-color=#334155
+
+
+[urgency=normal]
+background-color=#0b1f33ee
+text-color=#dbeafe
+border-color=#22d3ee
+
+
+[urgency=critical]
+background-color=#1f0711ee
+text-color=#fecaca
+border-color=#fb7185
