@@ -1,3 +1,4 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR __fish_initialized:4300
+SETUVAR --export CAELESTIA_WALLPAPERS_DIR:/home/alexn/Pictures/Wallpapers
+SETUVAR fish_user_paths:/home/alexn/\x2espicetify
