@@ -14,10 +14,6 @@ vim.opt.scrolloff = 8
 
 vim.opt.wrap = false
 
-vim.opt.fillchars = {
-    eob = " ",
-}
-
 vim.opt.cursorline = true
 
 vim.opt.clipboard = "unnamedplus"
